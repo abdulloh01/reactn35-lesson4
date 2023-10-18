@@ -1,0 +1,47 @@
+.center {
+    text-align: center;
+}
+
+.navigation {
+    text-decoration: none;
+    margin: 10px;
+    font-size: 25px;
+    color: #ffffff;
+    text-transform: uppercase;
+
+}
+
+.navigation-section {
+    padding: 25px;
+    background-color: #282A35;
+}
+.main-heading{
+    font-size: 40px;
+}
+.button-home{
+    padding: 13px;
+    border-radius: 1px;
+    background-color: #04aa6d;
+    border-color: #04aa6d;
+    font-size: 18px;
+    
+}
+.btn-link{
+    text-decoration: none;
+    color: #fff;
+}
+.btn-black{
+    background-color: black;
+}
+.paragraph-html{
+    line-height: 40px;
+    text-indent: 20px;
+}
+.section-1{
+    background-color: #D9EEE1;
+}
+.second-heading{
+    line-height: 40px;
+    text-transform: uppercase;
+    text-indent: 20px;
+}
